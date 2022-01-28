@@ -19,4 +19,4 @@
 
 ```
 Due to there is the main function directly in the CSV_Format.py file, 
-the read, save path is also relative, we can directly run the code to generated merged excel.
+the read, save path is also relative, we can directly run the code to generate merged excel.
